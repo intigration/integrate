@@ -490,7 +490,7 @@ class-utils@^0.3.5:
     arr-union "^3.1.0"
     define-property "^0.2.5"
     isobject "^3.0.0"
-    static-extend "^0.1.1"
+    static-extend "^0.1.1"00
 
 cli-boxes@^1.0.0:
   version "1.0.0"
@@ -540,7 +540,7 @@ commist@^1.0.0:
   integrity sha512-rraC8NXWOEjhADbZe9QBNzLAN5Q3fsTPQtBV+fEVj6xKIgDgNiEVE6ZNfHpZOqfQ21YUzfVNUXLOEZquYvQPPg==
   dependencies:
     leven "^2.1.0"
-    minimist "^1.1.0"
+    minimist "^1.1.0@latest"
 
 component-emitter@^1.2.1:
   version "1.2.1"
